@@ -101,7 +101,7 @@ class KafkaLoop:
                 topic=msg.topic(),
                 partition=msg.partition(),
                 offset=msg.offset(),
-                timestamp=timestamp,
+                timestamp_ms=msg.timestamp(),
                 key=msg.key(),
                 value=msg.value(),
             )
