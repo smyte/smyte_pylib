@@ -9,10 +9,6 @@ smyte_pylib
 .. image:: https://img.shields.io/travis/smyte/smyte_pylib.svg
         :target: https://travis-ci.org/smyte/smyte_pylib
 
-.. image:: https://readthedocs.org/projects/smyte-pylib/badge/?version=latest
-        :target: https://smyte-pylib.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
 .. image:: https://pyup.io/repos/github/smyte/smyte_pylib/shield.svg
      :target: https://pyup.io/repos/github/smyte/smyte_pylib/
      :alt: Updates
