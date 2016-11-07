@@ -19,7 +19,7 @@ test_requirements = [
 
 setup(
     name='smyte_pylib',
-    version='0.2.0',
+    version='0.2.1',
     description="Public python helpers in use by Smytes open source releases",
     long_description=readme + '\n\n' + history,
     author="Josh Yudaken",
@@ -27,6 +27,7 @@ setup(
     url='https://github.com/smyte/smyte_pylib',
     packages=[
         'smyte_pylib',
+        'smyte_pylib.kafka',
     ],
     package_dir={'smyte_pylib':
                  'smyte_pylib'},
