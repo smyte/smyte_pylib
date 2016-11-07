@@ -1,6 +1,4 @@
-===============================
-Smyte PyLib
-===============================
+## Smyte PyLib
 
 [![Build Status](https://travis-ci.org/smyte/smyte_pylib.svg?branch=master)](https://travis-ci.org/smyte/smyte_pylib)
 
