@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 
 import logging
-from confluent_kafka import (
+from confluent_kafka_smyte import (
     KafkaError,
     KafkaException,
     TopicPartition,

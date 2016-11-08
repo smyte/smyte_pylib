@@ -1,4 +1,4 @@
-from confluent_kafka import (
+from confluent_kafka_smyte import (
     Consumer,
     KafkaError,
     KafkaException,
