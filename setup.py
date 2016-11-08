@@ -19,7 +19,7 @@ test_requirements = [
 
 setup(
     name='smyte_pylib',
-    version='0.2.2',
+    version='0.2.3',
     description="Public python helpers in use by Smytes open source releases",
     long_description=readme + '\n\n' + history,
     author="Josh Yudaken",
